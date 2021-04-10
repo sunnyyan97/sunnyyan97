@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hello
+
+My name is Sunny Yan, I'm an aspiring Data Analyst passionate about answering questions with data. My main skills are working in Python and the Pydata stack(numpy, pandas, scikit-learn), SQL and Tableau for data visualization.
+
+I started my Data journey by completing the IBM Data Science Professional Certificate on Coursera, and then completed the Data Analyst career path from Dataquest to further my learning through projects.
+
+Welcome to my Github profile. The repository named Data-Science-Portfolio contains all of the projects that I've completed so far.
+
+
+
 
 <!--
 **sunnyyan97/sunnyyan97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
