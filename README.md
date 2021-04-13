@@ -12,15 +12,15 @@ Welcome to my Github profile. The repository named Data-Science-Portfolio contai
 ### Index
 
 - [Data Science Portfolio](https://github.com/sunnyyan97/Data-Science-Portfolio)- Here you will find all of the projects that I have completed so far during my Data Science learning journey, including:
-    -Python Programming
-    -SQL
-    -Postgres Databases
-    -Tableau Visualizations
+    -Python Programming  
+    -SQL   
+    -Postgres Databases    
+    -Tableau Visualizations   
 - Pinned Projects- Below are some of my favorite personal projects in detail.
 - [Tableau Public Profile]()- Here you will find all of the Tableau Dashboards that I have created, including:
-    -Personal Projects
-    -#MakeoverMonday Visualizations
-    -Dashboards for Tableau Specialization Course
+    -Personal Projects  
+    -#MakeoverMonday Visualizations   
+    -Dashboards for Tableau Specialization Course  
 
 <details>
     
