@@ -17,10 +17,7 @@ Welcome to my Github profile. The repository named Data-Science-Portfolio contai
     -Postgres Databases    
     -Tableau Visualizations   
 - Pinned Projects- Below are some of my favorite personal projects in detail.
-- [Tableau Public Profile]()- Here you will find all of the Tableau Dashboards that I have created, including:  
-    -Personal Projects  
-    -#MakeoverMonday Visualizations   
-    -Dashboards for Tableau Specialization Course  
+- [Tableau Public Profile](https://public.tableau.com/profile/sunny.yan7263#!/)- Here you will find all of the Tableau Dashboards that I have created.
 
 <details>
     
