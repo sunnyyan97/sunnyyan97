@@ -6,8 +6,6 @@ My name is Sunny Yan, I'm an aspiring Data Scientist passionate about uncovering
 
 I started my Data journey by completing the IBM Data Science Professional Certificate on Coursera, and then completed the Data Analyst career path from Dataquest to further my learning through projects.
 
-Welcome to my Github profile. The repository named Data-Science-Portfolio contains all of the projects that I've completed so far.
-
 <!-- <summary><strong>Index</strong></summary> -->
 ### Index
 
