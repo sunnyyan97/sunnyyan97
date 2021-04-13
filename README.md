@@ -11,12 +11,16 @@ Welcome to my Github profile. The repository named Data-Science-Portfolio contai
 <!-- <summary><strong>Index</strong></summary> -->
 ### Index
 
-- [Data Science Portfolio](https://github.com/sunnyyan97/Data-Science-Portfolio)- Here you will find all of the project that I have completed so far during my Data Science learning journey, including topics like:
+- [Data Science Portfolio](https://github.com/sunnyyan97/Data-Science-Portfolio)- Here you will find all of the projects that I have completed so far during my Data Science learning journey, including:
     -Python Programming
     -SQL
     -Postgres Databases
     -Tableau Visualizations
-- Pinned Projects- 
+- Pinned Projects- Below are some of my favorite personal projects in detail.
+- [Tableau Public Profile]()- Here you will find all of the Tableau Dashboards that I have created, including:
+    -Personal Projects
+    -#MakeoverMonday Visualizations
+    -Dashboards for Tableau Specialization Course
 
 <details>
     
@@ -25,6 +29,7 @@ Welcome to my Github profile. The repository named Data-Science-Portfolio contai
 - 🔭  I’m currently applying to jobs in Data Science, Data and Business Analytics and Business Intelligence. If you are looking for a hardworking team-player, look no further!
 - 🌱  I'm currently enrolled in Duke's [Excel to MySQL: Analytic Techniques for Business Specialization](https://www.coursera.org/specializations/excel-mysql) and [UC Davis' Data Visualization with Tableau Specialization](https://www.coursera.org/specializations/data-visualization) on Coursera.
 - 📫  How to reach me: https://www.linkedin.com/in/sunny-yan-0504a6120/
+- 💬  Twitter for Data Visualizations: [@sunnyyan97](https://twitter.com/sunnyyan97)
 
 
 <!--
