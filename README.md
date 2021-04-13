@@ -23,8 +23,7 @@ Welcome to my Github profile. The repository named Data-Science-Portfolio contai
 <summary><strong>More About Me</strong></summary>
 
 - 🔭 I’m currently applying to jobs in Data Science, Data and Business Analytics and Business Intelligence. If you are looking for a hardworking team-player, look no further!
-- 🌱 I'm currently enrolled in Duke's
-- [Excel to MySQL: Analytic Techniques for Business Specialization](https://www.coursera.org/specializations/excel-mysql)and[UC Davis' Data Visualization with Tableau Specialization](https://www.coursera.org/specializations/data-visualization)on Coursera.
+- 🌱 I'm currently enrolled in Duke's [Excel to MySQL: Analytic Techniques for Business Specialization](https://www.coursera.org/specializations/excel-mysql) and [UC Davis' Data Visualization with Tableau Specialization](https://www.coursera.org/specializations/data-visualization) on Coursera.
 
 <!--
 **sunnyyan97/sunnyyan97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
