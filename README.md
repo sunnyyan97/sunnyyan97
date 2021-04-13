@@ -11,7 +11,7 @@ Welcome to my Github profile. The repository named Data-Science-Portfolio contai
 <!-- <summary><strong>Index</strong></summary> -->
 ### Index
 
-- [Data Science Portfolio](https://github.com/sunnyyan97/Data-Science-Portfolio)- Here you will find all of the projects that I have completed so far during my Data Science learning journey, including:
+- [Data Science Portfolio](https://github.com/sunnyyan97/Data-Science-Portfolio)- Here you will find all of the projects that I have completed so far during my Data Science learning journey, including:  
     -Python Programming  
     -SQL   
     -Postgres Databases    
