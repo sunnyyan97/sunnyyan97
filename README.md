@@ -25,8 +25,7 @@ I am currently seeking an Analytics Engineering role in the New York City area a
     
 <summary><strong>More About Me</strong></summary>
 
-- 🔭  I’m currently applying to jobs in Data Science, Data and Business Analytics and Business Intelligence. If you are looking for a hardworking team-player, look no further!
-- 🌱  I'm currently enrolled in Duke's [Excel to MySQL: Analytic Techniques for Business Specialization](https://www.coursera.org/specializations/excel-mysql) and [UC Davis' Data Visualization with Tableau Specialization](https://www.coursera.org/specializations/data-visualization) on Coursera.
+- 🔭  I’m currently applying to Analytics Engineering jobs accross all industries. If you are looking for a hardworking team-player, look no further!
 - 📫  How to reach me: https://www.linkedin.com/in/sunny-yan-0504a6120/
 - 💬  Twitter for Data Visualizations: [@sunnyyan97](https://twitter.com/sunnyyan97)
 
