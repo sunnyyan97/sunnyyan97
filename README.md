@@ -6,6 +6,10 @@ My name is Sunny Yan, I'm a Data Analytics Professional passionate about uncover
 
 I started my Data journey by completing the IBM Data Science Professional Certificate on Coursera, and then completed the Data Analyst career path from Dataquest to further my learning through projects.
 
+I have worked as an Analytics Consultant for the past 4 years at phData. During this time I have consulted for multiple fortune 500 companies, including Kraft Heinz, Procter & Gamble and T-Mobile, streamlining their data operations and uncovering new insights.
+
+I am currently seeking an Analytics Engineering role in the New York City area at a dynamic, fast-growing tech company.
+
 <!-- <summary><strong>Index</strong></summary> -->
 ### Index
 
