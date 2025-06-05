@@ -2,7 +2,7 @@
 
 ### About Me
 
-My name is Sunny Yan, I'm an aspiring Data Scientist passionate about uncovering patterns and telling stories through data. My main skills are working in Python and the Pydata stack(numpy, pandas, scikit-learn), SQL and Tableau for data visualization.
+My name is Sunny Yan, I'm a Data Analytics Professional passionate about uncovering patterns and telling stories through data. My main skills are working in Python and the Pydata stack(numpy, pandas, scikit-learn), SQL and Tableau for data visualization.
 
 I started my Data journey by completing the IBM Data Science Professional Certificate on Coursera, and then completed the Data Analyst career path from Dataquest to further my learning through projects.
 
